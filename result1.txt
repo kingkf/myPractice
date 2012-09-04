@@ -1,0 +1,43 @@
+m: 1539612810
+r: 0
+after: 
+10 2 3 4 5 6 7 8 9 1 
+partition: 0
+after p: 
+1 2 3 4 5 6 7 8 9 10 
+m: 1292126494
+r: 4
+after: 
+2 3 4 5 10 7 8 9 6 
+partition: 4
+after p: 
+2 3 4 5 6 7 8 9 10 
+m: 1964256409
+r: 4
+after: 
+2 3 4 5 6 
+partition: 4
+after p: 
+2 3 4 5 6 
+m: 123838150
+r: 0
+after: 
+6 3 4 5 2 
+partition: 0
+after p: 
+2 3 4 5 6 
+m: 1765380829
+r: 1
+after: 
+3 6 5 4 
+partition: 1
+after p: 
+3 4 5 6 
+m: 105909546
+r: 0
+after: 
+6 5 
+partition: 0
+after p: 
+5 6 
+1 2 3 4 5 
